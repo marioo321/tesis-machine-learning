@@ -4,6 +4,7 @@ Repositorio correspondiente a mi tesis de pregrado, enfocada en el uso de Machin
 
 ## Descripción
 En este trabajo se implementaron y compararon distintos modelos supervisados, incluyendo:
+- Decision Tree
 - Random Forest
 - XGBoost
 - CatBoost
